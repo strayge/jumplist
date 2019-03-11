@@ -1,0 +1,7 @@
+[submodule "olefile"]
+	path = olefile
+	url = git@github.com:strayge/olefile.git
+	branch = write_to_file
+[submodule "pylnk"]
+	path = pylnk
+	url = git@github.com:strayge/pylnk.git
